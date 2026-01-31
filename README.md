@@ -174,7 +174,7 @@ The system comes with pre-configured demo accounts:
 | Student | Username | Password |
 |---------|----------|----------|
 | Prithvish | `Prithvish` | `123` |
-| Student 2 | `student2` | `password456` |
+| Kavya Singh | `Kavya` | `123` |
 
 ### Navigation Flow
 
@@ -421,4 +421,5 @@ If you found this project helpful, please consider giving it a ⭐ on GitHub!
 Made with ☕ and 💻 | © 2026 College Attendance Tracker
 
 </div>#
+
 
