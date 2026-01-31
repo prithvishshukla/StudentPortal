@@ -420,7 +420,10 @@ If you found this project helpful, please consider giving it a ⭐ on GitHub!
 
 Made with ☕ and 💻 | © 2026 College Attendance Tracker
 
-</div>#   S t u d e n t - P o r t a l  
- #   S t u d e n t - P o r t a l  
- #   S t u d e n t - P o r t a l  
+</div>#   S t u d e n t - P o r t a l 
+ 
+ #   S t u d e n t - P o r t a l 
+ 
+ #   S t u d e n t - P o r t a l 
+ 
  
